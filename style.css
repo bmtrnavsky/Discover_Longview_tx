@@ -28,7 +28,7 @@ body {
         margin-right: auto;
         margin-top: 118px;
         border-radius: 10px;
-        background: #1D3557;
+        background: #457B9D;
 }
 #hero-text-1 {
     
@@ -41,7 +41,19 @@ body {
         font-weight: 700;
         line-height: normal
 }
+
+#tagline {
+        width: 350px;
+        height: 39px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        border-radius: 10px;
+        background: #1D3557;
+        margin-bottom: 200px;
+}
 #hero-text-2 {
+        padding: 10px 12px 5px 12px;
         color: #FFF;
         text-align: center;
         font-family: Arial;
@@ -55,6 +67,6 @@ body {
 img {
     width: 100px;
 }
-#actibities {
-    margin-top: 200px;
+#activities {
+    margin-top: 285px;
 }
