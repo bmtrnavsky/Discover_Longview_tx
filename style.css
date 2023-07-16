@@ -1,0 +1,63 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+        background-image: url('https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/e/10/e10fb358-ee58-11ec-bb04-8bf949ccbbc4/62aca8ec33463.image.jpg?resize=767%2C500');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 720px;
+        height: 343px;
+        
+        margin: 0;
+        text-align: center;
+}
+
+   
+
+
+#title {
+        width: 425px;
+        height: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 118px;
+        margin-bottom: 187px;
+        padding: 10px 12px -10px 12px;    
+        border-radius: 10px;
+        background: #1D3557;
+}
+#hero-text-1 {
+    
+        color: #FFF;
+        text-align: center;
+        font-family: Arial;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal
+}
+#hero-text-2 {
+        color: #FFF;
+        text-align: center;
+        font-family: Arial;
+        font-size: 18.72px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+
+}
+
+img {
+    width: 100px;
+}
+#actibities {
+    margin-top: 200px;
+}
